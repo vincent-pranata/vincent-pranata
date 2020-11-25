@@ -3,7 +3,8 @@
   <br><br>
   <samp>
     :wave: Hello! Vincent here 
-    <br> I  to help humans
+    <br> I am trying to help people
+    <br> and animals alike to 
     <br>be the best version of themselves 
     <br>through  <em>design</em> & <em> code </em> <img src="https://media.giphy.com/media/hWM5xcVje9cQscDLbP/source.gif" width="20px"><br><br>
   </samp>
